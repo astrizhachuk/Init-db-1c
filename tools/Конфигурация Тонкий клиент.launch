@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="com._1c.g5.v8.dt.launching.core.RuntimeClient">
-    <intAttribute key="com._1c.g5.v8.dt.debug.core.ATTR_DEBUG_SERVER_PORT" value="-1"/>
     <stringAttribute key="com._1c.g5.v8.dt.debug.core.ATTR_EXTERNAL_OBJECT_NAME" value="InitDB"/>
-    <stringAttribute key="com._1c.g5.v8.dt.debug.core.ATTR_EXTERNAL_OBJECT_PROJECT_NAME" value="InitDB"/>
+    <stringAttribute key="com._1c.g5.v8.dt.debug.core.ATTR_EXTERNAL_OBJECT_PROJECT_NAME" value="ВнешняяОбработка"/>
     <stringAttribute key="com._1c.g5.v8.dt.debug.core.ATTR_EXTERNAL_OBJECT_TYPE" value="com._1c.g5.v8.dt.metadata.mdclass.impl.ExternalDataProcessorImpl"/>
-    <stringAttribute key="com._1c.g5.v8.dt.debug.core.ATTR_PROJECT_NAME" value="Пустая8310"/>
-    <stringAttribute key="com._1c.g5.v8.dt.debug.core.ATTR_RUNTIME_INSTALLATION" value="com._1c.g5.v8.dt.platform.services.core.resolvableInstallations.environments:com._1c.g5.v8.dt.platform.services.core.runtimeType.EnterprisePlatform=8.3"/>
+    <stringAttribute key="com._1c.g5.v8.dt.debug.core.ATTR_PROJECT_NAME" value="Конфигурация"/>
+    <stringAttribute key="com._1c.g5.v8.dt.debug.core.ATTR_RUNTIME_INSTALLATION" value="com._1c.g5.v8.dt.platform.services.core.resolvableInstallations.fixed:com._1c.g5.v8.dt.platform.services.core.runtimeType.EnterprisePlatform=8.3.17.1549"/>
     <stringAttribute key="com._1c.g5.v8.dt.debug.core.ATTR_USE_LOCAL_DEBUG_SERVER" value="AUTO"/>
     <booleanAttribute key="com._1c.g5.v8.dt.debug.core.INFOBASE_USE_DEFAULT" value="true"/>
     <booleanAttribute key="com._1c.g5.v8.dt.launching.core.ATTR_ASSOCIATE_AFTER_DEPLOY" value="true"/>
@@ -25,9 +24,9 @@
     <booleanAttribute key="com._1c.g5.v8.dt.launching.core.ATTR_SHOW_ALL_FUNCTIONS" value="true"/>
     <booleanAttribute key="com._1c.g5.v8.dt.launching.core.ATTR_SHOW_PERFORMANCE" value="true"/>
     <booleanAttribute key="com._1c.g5.v8.dt.launching.core.ATTR_SLOW_CONNECTION" value="false"/>
-    <stringAttribute key="com._1c.g5.v8.dt.launching.core.ATTR_STARTUP_OPTION" value="CREATEAфывавфыаMIN;users-from-json=C:\w\devops\workspace\InitDB\users.json;фыва=вфыа;"/>
+    <stringAttribute key="com._1c.g5.v8.dt.launching.core.ATTR_STARTUP_OPTION" value="CREATEAфывавфыаMIN;users-from-json=C:\w\1c\edt\init-db-1c\users.json;фыва=вфыа;"/>
     <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-        <listEntry value="/Пустая8310"/>
+        <listEntry value="/Конфигурация"/>
     </listAttribute>
     <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
         <listEntry value="4"/>
