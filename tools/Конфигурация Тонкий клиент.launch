@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="com._1c.g5.v8.dt.launching.core.RuntimeClient">
+    <intAttribute key="com._1c.g5.v8.dt.debug.core.ATTR_DEBUG_SERVER_PORT" value="-1"/>
     <stringAttribute key="com._1c.g5.v8.dt.debug.core.ATTR_EXTERNAL_OBJECT_NAME" value="InitDB"/>
     <stringAttribute key="com._1c.g5.v8.dt.debug.core.ATTR_EXTERNAL_OBJECT_PROJECT_NAME" value="InitDB"/>
     <stringAttribute key="com._1c.g5.v8.dt.debug.core.ATTR_EXTERNAL_OBJECT_TYPE" value="com._1c.g5.v8.dt.metadata.mdclass.impl.ExternalDataProcessorImpl"/>
@@ -24,6 +25,7 @@
     <booleanAttribute key="com._1c.g5.v8.dt.launching.core.ATTR_SHOW_ALL_FUNCTIONS" value="true"/>
     <booleanAttribute key="com._1c.g5.v8.dt.launching.core.ATTR_SHOW_PERFORMANCE" value="true"/>
     <booleanAttribute key="com._1c.g5.v8.dt.launching.core.ATTR_SLOW_CONNECTION" value="false"/>
+    <stringAttribute key="com._1c.g5.v8.dt.launching.core.ATTR_STARTUP_OPTION" value="json={};file=C:\w\1c\edt\init-db-1c\init-db-1c\users.json;фыва=вфыа"/>
     <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
         <listEntry value="/Конфигурация"/>
     </listAttribute>

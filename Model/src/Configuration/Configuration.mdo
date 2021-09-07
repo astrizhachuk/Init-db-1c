@@ -34,4 +34,7 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <roles>Role.Роль1</roles>
+  <roles>Role.Роль2</roles>
+  <roles>Role.ПолныеПрава</roles>
 </mdclass:Configuration>
